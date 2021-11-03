@@ -16,6 +16,6 @@
     "jsrsasign": "^8.0.15",
     "mongoose": "^5.9.12",
     "morgan": "^1.10.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   }
 }
